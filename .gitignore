@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+dist/
+build/
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Data files
+*.csv
+*.sqlite
+*.db
+
+# Trading system specific ignores
+trading_logs/
+config.json
